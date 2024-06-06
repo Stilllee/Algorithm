@@ -1,8 +1,10 @@
 # 코딩테스트 구현 문제
 
 ## 백준
-### Lv.1
+### Bronze
 [단어 공부](https://github.com/Stilllee/implementation/issues/1)
+
+[트럭 주차](https://github.com/Stilllee/implementation/issues/2)
 
 <br>
 <br>
