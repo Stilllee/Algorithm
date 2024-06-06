@@ -12,5 +12,4 @@
 <br>
 <br>
 
-## 노션 정리본
-[코딩테스트 구현 문제](https://www.notion.so/wood-stock/7d35a707bc0d4df49c7caf6887c4acac?v=837801ea9b964e1cb8f5231cfefd2ae8)
+[노션 정리](https://www.notion.so/wood-stock/7d35a707bc0d4df49c7caf6887c4acac?v=837801ea9b964e1cb8f5231cfefd2ae8)
