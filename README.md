@@ -10,6 +10,8 @@
 <br>
 
 ## 프로그래머스
+### Lv.0
+[한 번만 등장한 문자](https://github.com/Stilllee/implementation/issues/3)
 
 <br>
 <br>
