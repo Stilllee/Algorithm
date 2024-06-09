@@ -22,6 +22,8 @@
 
 [행렬의 덧셈](https://github.com/Stilllee/implementation/issues/7)
 
+[같은 숫자는 싫어](https://github.com/Stilllee/implementation/issues/8)
+
 
 <br>
 <br>
