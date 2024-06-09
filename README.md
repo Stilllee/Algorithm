@@ -18,6 +18,8 @@
 ## Lv.1
 [콜라츠 추측](https://github.com/Stilllee/implementation/issues/5)
 
+[문자열 다루기 기본](https://github.com/Stilllee/implementation/issues/6)
+
 
 <br>
 <br>
