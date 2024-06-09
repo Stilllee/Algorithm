@@ -24,6 +24,8 @@
 
 [같은 숫자는 싫어](https://github.com/Stilllee/implementation/issues/8)
 
+[예산](https://github.com/Stilllee/implementation/issues/9)
+
 
 <br>
 <br>
