@@ -1,4 +1,4 @@
-# 코딩테스트 구현 문제
+# 코딩테스트 구현 문제를 위한 연습
 
 ## 백준
 ### Bronze
@@ -14,6 +14,10 @@
 [한 번만 등장한 문자](https://github.com/Stilllee/implementation/issues/3)
 
 [로그인 성공?](https://github.com/Stilllee/implementation/issues/4)
+
+## Lv.1
+[콜라츠 추측](https://github.com/Stilllee/implementation/issues/5)
+
 
 <br>
 <br>
