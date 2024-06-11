@@ -37,6 +37,8 @@
 ### Lv.2
 [거스름 돈](https://github.com/Stilllee/implementation/issues/11)
 
+[숫자 배열](https://github.com/Stilllee/implementation/issues/12)
+
 <br>
 <br>
 
