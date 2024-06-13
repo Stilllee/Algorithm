@@ -34,6 +34,8 @@
 ### Lv.1
 [숫자 제거 배열](https://github.com/Stilllee/implementation/issues/10)
 
+[인공지능 청소기](https://github.com/Stilllee/implementation/issues/13)
+
 ### Lv.2
 [거스름 돈](https://github.com/Stilllee/implementation/issues/11)
 
