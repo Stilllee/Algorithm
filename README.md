@@ -38,6 +38,8 @@
 
 [인공지능 청소기](https://github.com/Stilllee/implementation/issues/13)
 
+[딱지 놀이](https://github.com/Stilllee/implementation/issues/15)
+
 ### Lv.2
 [거스름 돈](https://github.com/Stilllee/implementation/issues/11)
 
