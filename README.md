@@ -45,8 +45,3 @@
 [거스름 돈](https://github.com/Stilllee/implementation/issues/11)
 
 [숫자 배열](https://github.com/Stilllee/implementation/issues/12)
-
-<br>
-<br>
-
-[노션 정리](https://www.notion.so/wood-stock/7d35a707bc0d4df49c7caf6887c4acac?v=837801ea9b964e1cb8f5231cfefd2ae8)
