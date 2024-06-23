@@ -7,6 +7,8 @@
 
 [더하기 사이클](https://github.com/Stilllee/implementation/issues/14)
 
+[공 넣기](https://github.com/Stilllee/implementation/issues/16)
+
 <br>
 <br>
 
