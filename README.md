@@ -1,5 +1,4 @@
-# 코딩테스트 구현 문제를 위한 연습
-
+# 코딩테스트 문제풀이
 ## 백준
 ### Bronze
 [단어 공부](https://github.com/Stilllee/implementation/issues/1)
@@ -33,14 +32,14 @@
 <br>
 
 ## 구름
-### Lv.1
+### 난이도 1
 [숫자 제거 배열](https://github.com/Stilllee/implementation/issues/10)
 
 [인공지능 청소기](https://github.com/Stilllee/implementation/issues/13)
 
 [딱지 놀이](https://github.com/Stilllee/implementation/issues/15)
 
-### Lv.2
+### 난이도 2
 [거스름 돈](https://github.com/Stilllee/implementation/issues/11)
 
 [숫자 배열](https://github.com/Stilllee/implementation/issues/12)
