@@ -11,6 +11,9 @@
 
 [바구니 뒤집기](https://github.com/Stilllee/implementation/issues/17)
 
+### Silver
+[설탕 배달](https://github.com/Stilllee/implementation/issues/18)
+
 <br>
 <br>
 
