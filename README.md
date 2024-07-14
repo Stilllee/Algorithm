@@ -23,6 +23,8 @@
 
 [로그인 성공?](https://github.com/Stilllee/implementation/issues/4)
 
+[최빈값 구하기](https://github.com/Stilllee/implementation/issues/19)
+
 ### Lv.1
 [콜라츠 추측](https://github.com/Stilllee/implementation/issues/5)
 
